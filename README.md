@@ -125,7 +125,7 @@ If you use this code, please cite our paper:
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via [LinkedIn](#) or open a GitHub issue.
+For questions or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/madam-akosua-addobea08/) or open a GitHub issue.
 
 ---
 
